@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "asha-token",
   "version": "1.0.0",
   "description": "ASHA token using solidity on Hardhat",
@@ -16,4 +17,11 @@
     "url": "https://github.com/coderasha/Asha-Token--Hardhat/issues"
   },
   "homepage": "https://github.com/coderasha/Asha-Token--Hardhat#readme"
+=======
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  }
+>>>>>>> 51d353b (Structure)
 }
