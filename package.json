@@ -1,0 +1,19 @@
+{
+  "name": "asha-token",
+  "version": "1.0.0",
+  "description": "ASHA token using solidity on Hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderasha/Asha-Token--Hardhat.git"
+  },
+  "author": "Ashadipta pAti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderasha/Asha-Token--Hardhat/issues"
+  },
+  "homepage": "https://github.com/coderasha/Asha-Token--Hardhat#readme"
+}
